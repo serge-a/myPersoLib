@@ -1,4 +1,4 @@
 myPersoLib
 ==========
 
-junk of perso stuck, work in progress
+junk of perso stuff, work in progress
