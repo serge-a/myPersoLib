@@ -2,7 +2,7 @@
     position: absolute;
     top: 25%;
     left: 25%;
-    border: 3px solid black;
+    /*border: 3px solid black;*/
     border-radius: 5px;
     background-color: lightgrey;
     color: #8A4737;;
@@ -44,7 +44,7 @@
     top: 3px;
     right: 3px;
     background-color: #BEB7B7;
-    color: #000;
+    color: #FFF;
     font-weight: bold;
     border-radius: 8px;
     line-height: 22px;
