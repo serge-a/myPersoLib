@@ -10,6 +10,7 @@
     text-align: center;
     width: 50%;
     height: 50%;
+    padding-top: 36px;
     padding-bottom: 30px;
 }
 
@@ -23,7 +24,9 @@
     color: #FFF;
     line-height: 26px;
     text-align: left;
-    margin-bottom: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
 }
 
 .mb-window #mb-close{
