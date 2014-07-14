@@ -17,20 +17,27 @@
     height: 26px;
     background-color: darkgrey;
     padding-left: 5px;
+    padding-right: 30px;
     font-size: 20px;
     font-weight: bold;
     color: #FFF;
     line-height: 26px;
     text-align: left;
+    margin-bottom: 10px;
 }
 
-.mb-window input#mb-close{
-    margin: 0 auto;
+.mb-window #mb-close{
+    margin: 0;
     display: block;
+    width: 26px;
+    height: 26px;
     position: absolute;
-    bottom: 4px;
-    left: 0;
+    top: 0;
     right: 0;
+    background-color: #000;
+    color: #FF0000;
+    font-weight: bold;
+    border-radius: 13px;
 }
 
 .mb-overlay{
