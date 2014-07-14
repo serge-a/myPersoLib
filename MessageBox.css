@@ -10,6 +10,7 @@
     text-align: center;
     width: 50%;
     height: 50%;
+    padding-bottom: 30px;
 }
 
 .mb-header{
@@ -24,8 +25,10 @@
 }
 
 .mb-window input#mb-close{
-    margin: 20px auto 4px auto;
-    display: inline-block;
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    bottom 4px;
 }
 
 .mb-overlay{
