@@ -10,8 +10,7 @@
     text-align: center;
     width: 50%;
     height: 50%;
-    padding-top: 36px;
-    padding-bottom: 30px;
+    padding: 36px 10px 30px 10px;
 }
 
 .mb-header{
