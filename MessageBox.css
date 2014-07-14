@@ -28,7 +28,9 @@
     margin: 0 auto;
     display: block;
     position: absolute;
-    bottom 4px;
+    bottom: 4px;
+    left: 0;
+    right: 0;
 }
 
 .mb-overlay{
