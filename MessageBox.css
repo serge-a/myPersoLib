@@ -1,0 +1,37 @@
+.mb-window{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border: 3px solid black;
+    border-radius: 5px;
+    background-color: lightgrey;
+    color: #FFF;
+    font-size: 14px;
+    text-align: center;
+}
+
+.mb-header{
+    height: 26px;
+    background-color: darkgrey;
+    padding-left: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFF;
+    line-height: 26px;
+    text-align: left;
+}
+
+.mb-window input#mb-close{
+    margin: 20px auto 4px auto;
+    display: block;
+}
+
+.mb-overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #000;
+    opacity: 0.5;
+}
